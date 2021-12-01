@@ -2,7 +2,7 @@
 - 👀 I’m interested in stuffs... idk
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m bored
-- 📫 You can contact me on Facebook and Discord. If u know my accounts.
+- 📫 You can contact me on Facebook, Twitter and Discord.
 
 <!---
 HajiHajime/HajiHajime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
