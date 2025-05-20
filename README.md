@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HajiHajime
 - 👀 I’m interested in stuffs... idk
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science, still clueless af
 - 💞️ I’m bored
 - 📫 You can contact me on Facebook, Twitter and Discord.
 
